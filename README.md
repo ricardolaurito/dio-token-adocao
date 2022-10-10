@@ -1,6 +1,6 @@
 
 
-# dio-blockchain-for-devs
+# Token desenvolvido com estudo na DIO
 
 ## Pré-requsitos
 
